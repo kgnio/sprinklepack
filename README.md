@@ -23,65 +23,66 @@
 ### 🌑 Dark Themes
 - `Pine Forest`
 
-  ![Pine Forest](showcase/pine-forest.png)
+<img width="2551" height="1385" alt="pine-forest" src="https://github.com/user-attachments/assets/0f2da1e8-dbcc-4bb4-83d6-e32ece51722a" />
 
 - `Cyber City`
 
-  ![Cyber City](showcase/cyber-city.png)
+<img width="2542" height="1386" alt="cyber-city" src="https://github.com/user-attachments/assets/6ff239dd-1bb3-4183-84b8-e7d035a6455d" />
 
 - `ChatGPT Theme`
 
-  ![ChatGPT Theme](showcase/chatgpt-theme.png)
+<img width="2549" height="1386" alt="chatgpt" src="https://github.com/user-attachments/assets/3fd42cfc-9bc2-4401-a0b7-4ff6db18451b" />
 
 - `Darker Than Black`
 
-  ![Darker Than Black](showcase/darker-than-black.png)
+<img width="2549" height="1387" alt="darker-than-black" src="https://github.com/user-attachments/assets/76cee708-65d9-4f12-9f91-365ee4a1a01d" />
 
 - `Azure Noir`
 
-  ![Azure Noir](showcase/azure-noir.png)
+<img width="2551" height="1388" alt="azure-noir" src="https://github.com/user-attachments/assets/9c65ea06-b130-44a8-8fed-8dcf5a069edb" />
 
 - `Colorblind Dark`
-
-  ![Colorblind Dark](showcase/colorblind-dark.png)
+  
+<img width="2551" height="1387" alt="colorblind-dark" src="https://github.com/user-attachments/assets/2362fa45-6762-4271-9b1a-12de06e3b960" />
 
 - `Colorblind Blind`
 
-  ![Colorblind Blind](showcase/colorblind-blind.png)
+<img width="2550" height="1383" alt="colorblind-blind" src="https://github.com/user-attachments/assets/b8d395b7-68fd-461f-9945-83c64be71243" />
 
 
 ### 🌕 Light Themes
-- `Magnolia`
 
-  ![Magnolia](showcase/magnolia.png)
+- `Magnolia`
+**
+<img width="2552" height="1390" alt="magnolia" src="https://github.com/user-attachments/assets/6185f459-6da9-4e30-94b9-25e4122b3381" />
 
 - `Ice`
 
-  ![Ice](showcase/ice.png)
+<img width="2554" height="1385" alt="ice" src="https://github.com/user-attachments/assets/ab2b5df7-cbb5-43a1-ac27-ebf17171cbfc" />
 
 - `Elf Dream`
 
-  ![Elf Dream](showcase/elf-dream.png)
+<img width="2551" height="1389" alt="elf-dream" src="https://github.com/user-attachments/assets/b2389e0f-d75e-4e07-aae0-9234d848be13" />
 
 - `Cupcake`
-
-  ![Cupcake](showcase/cupcake.png)
+  
+<img width="2550" height="1387" alt="cupcake" src="https://github.com/user-attachments/assets/f1a51cfe-6b7e-4064-b8a7-6671fe7e4e43" />
 
 - `Colorblind Light`
-
-  ![Colorblind Light](showcase/colorblind-light.png)
+  
+<img width="2553" height="1388" alt="colorblind-light" src="https://github.com/user-attachments/assets/af0b20ed-5786-4a1e-a4c5-4c78bc033353" />
 
 - `Sweet Lemon`
-
-  ![Sweet Lemon](showcase/sweet-lemon.png)
+- 
+<img width="2551" height="1387" alt="sweet-lemon" src="https://github.com/user-attachments/assets/84503246-58af-43f6-af77-acbc57f0fda8" />
 
 - `Lofi`
-
-  ![Lofi](showcase/lofi.png)
+  
+<img width="2553" height="1387" alt="lofi" src="https://github.com/user-attachments/assets/8cbb55ea-1522-42a3-9ba7-c24146f5aeb8" />
 
 - `Glowing Sunset`
 
-  ![Glowing Sunset](showcase/glowing-sunset.png)
+<img width="2551" height="1390" alt="glowing-sunset" src="https://github.com/user-attachments/assets/e2980c40-e5f9-487c-9de4-0e94e8404223" />
 
 
 ---
