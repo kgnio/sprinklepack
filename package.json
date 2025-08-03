@@ -1,0 +1,96 @@
+{
+  "name": "sprinklepack",
+  "displayName": "Sprinkle Pack",
+  "description": "A VS Code extension containing multiple custom color themes, allowing users to choose their preferred theme.",
+  "version": "0.1.7",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kgnio/sprinklepack"
+  },
+  "publisher": "kgnio",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pine Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pine-forest.json"
+      },
+      {
+        "label": "Cyber City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyber-city.json"
+      },
+      {
+        "label": "ChatGPT Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chatgpt-theme.json"
+      },
+      {
+        "label": "Darker Than Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker-than-black.json"
+      },
+      {
+        "label": "Azure Noir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/azure-noir.json"
+      },
+      {
+        "label": "Colorblind Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/colorblind-dark.json"
+      },
+      {
+        "label": "Colorblind Blind",
+        "uiTheme": "vs-dark",
+        "path": "./themes/colorblind-blind.json"
+      },
+      {
+        "label": "Magnolia",
+        "uiTheme": "vs",
+        "path": "./themes/magnolia.json"
+      },
+      {
+        "label": "Ice",
+        "uiTheme": "vs",
+        "path": "./themes/ice.json"
+      },
+      {
+        "label": "Elf Dream",
+        "uiTheme": "vs",
+        "path": "./themes/elf-dream.json"
+      },
+      {
+        "label": "Cupcake",
+        "uiTheme": "vs",
+        "path": "./themes/cupcake.json"
+      },
+      {
+        "label": "Colorblind Light",
+        "uiTheme": "vs",
+        "path": "./themes/colorblind-light.json"
+      },
+      {
+        "label": "Sweet Lemon",
+        "uiTheme": "vs",
+        "path": "./themes/sweet-lemon.json"
+      },
+      {
+        "label": "Lofi",
+        "uiTheme": "vs",
+        "path": "./themes/lofi.json"
+      },
+      {
+        "label": "Glowing Sunset",
+        "uiTheme": "vs",
+        "path": "./themes/glowing-sunset.json"
+      }
+    ]
+  }
+}
