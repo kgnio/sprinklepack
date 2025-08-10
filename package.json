@@ -2,7 +2,7 @@
   "name": "sprinklepack",
   "displayName": "Sprinkle Pack",
   "description": "A VS Code extension containing multiple custom color themes, allowing users to choose their preferred theme.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.60.0"
   },
