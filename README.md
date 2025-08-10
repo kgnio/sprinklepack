@@ -1,4 +1,4 @@
-# ✨ SprinklePack — Custom Themes for Visual Studio Code
+# ✨ SprinklePack — Custom Themes for Visual Studio Code 
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/kgnio.sprinklepack?label=Marketplace)
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/kgnio.sprinklepack?label=Installs)
